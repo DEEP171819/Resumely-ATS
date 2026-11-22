@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resumely – AI-Powered Applicant Tracking System & Job Board
 
 Resumely is a full-stack recruitment platform designed to simplify and improve the hiring process. It combines Applicant Tracking System (ATS) capabilities with an integrated job board and AI-powered resume analysis to help streamline candidate screening and recruitment workflows.
@@ -115,3 +116,7 @@ http://localhost:4000/
 The root endpoint returns the API service status and available endpoint information.
 
 *
+=======
+# ATS-With-Job-Board
+ATS With JOb Board developed in workshop organised by MyAnatomy
+>>>>>>> 6964d3592e6bee4600619bbeece0d2e7cb19c665
